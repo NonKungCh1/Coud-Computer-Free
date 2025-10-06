@@ -24,7 +24,7 @@ https://login.tailscale.com/admin/settings/keys
 ___
 # ขั้นตอนที่2
 หลักจากที่ทุกคนได้ Keys มาแล้วให้กลับมาหน้า github
-[]()
+![S](https://raw.githubusercontent.com/NonKungCh1/Coud-Computer-Free/refs/heads/main/assets/images/1759759946352.jpg)
 ___
 CODE
 ```
