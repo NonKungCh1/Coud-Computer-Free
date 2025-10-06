@@ -41,9 +41,11 @@ ___
 
 ![w](https://github.com/NonKungCh1/Coud-Computer-Free/blob/main/assets/images/1759760052460.jpg)
 
-จากนั้นให้ทุกคนกด สีเขียว หรือ
+จากนั้นให้ทุกคนกด สีเขียว หรือ Create Repositories
 
-![w]()
+![w](https://github.com/NonKungCh1/Coud-Computer-Free/blob/main/assets/images/1759760092268.jpg)
+
+ทุกคนก็จะได้ Repositories มา
 ___
 CODE
 ```
