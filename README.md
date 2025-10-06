@@ -25,6 +25,14 @@ ___
 # ขั้นตอนที่2
 หลักจากที่ทุกคนได้ Keys มาแล้วให้กลับมาหน้า github
 ![S](https://raw.githubusercontent.com/NonKungCh1/Coud-Computer-Free/refs/heads/main/assets/images/1759759946352.jpg)
+
+จากนั้นให้คุณมาที่โปรไฟล์
+
+![w](https://github.com/NonKungCh1/Coud-Computer-Free/blob/main/assets/images/1759759977106.jpg)
+![w]()
+![w]()
+![w]()
+![w]()
 ___
 CODE
 ```
