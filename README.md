@@ -29,7 +29,12 @@ ___
 จากนั้นให้คุณมาที่โปรไฟล์
 
 ![w](https://github.com/NonKungCh1/Coud-Computer-Free/blob/main/assets/images/1759759977106.jpg)
-![w]()
+
+หลักจากที่ทุกคนกดโปรไฟล์แล้ว ให้กดไปที่ Repositories
+
+![w](https://github.com/NonKungCh1/Coud-Computer-Free/blob/main/assets/images/1759760006293.jpg)
+
+
 ![w]()
 ![w]()
 ![w]()
