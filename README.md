@@ -46,6 +46,9 @@ ___
 ![w](https://github.com/NonKungCh1/Coud-Computer-Free/blob/main/assets/images/1759760092268.jpg)
 
 ทุกคนก็จะได้ Repositories มา
+![r](https://github.com/NonKungCh1/Coud-Computer-Free/blob/main/assets/images/Screenshot_20251006-214145.jpg)
+___
+# ขั้นตอนที่3
 ___
 CODE
 ```
