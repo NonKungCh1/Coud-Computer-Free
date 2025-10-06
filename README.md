@@ -22,32 +22,34 @@ https://login.tailscale.com/admin/settings/keys
 ```
 ___
 # ขั้นตอนที่2 / Step 2
-หลักจากที่ทุกคนได้ Keys มาแล้วให้กลับมาหน้า github
+หลักจากที่ทุกคนได้ Keys มาแล้วให้กลับมาหน้า github / After everyone has received their keys, return to the github page.
 ![S](https://raw.githubusercontent.com/NonKungCh1/Coud-Computer-Free/refs/heads/main/assets/images/1759759946352.jpg)
 
-จากนั้นให้คุณมาที่โปรไฟล์
+จากนั้นให้คุณมาที่โปรไฟล์ / Then you come to your profile.
 
 ![w](https://github.com/NonKungCh1/Coud-Computer-Free/blob/main/assets/images/1759759977106.jpg)
 
-หลักจากที่ทุกคนกดโปรไฟล์แล้ว ให้กดไปที่ Repositories
+หลักจากที่ทุกคนกดโปรไฟล์แล้ว ให้กดไปที่ Repositories / After everyone has clicked on their profile, click on Repositories.
 
 ![w](https://github.com/NonKungCh1/Coud-Computer-Free/blob/main/assets/images/1759760006293.jpg)
 
-จากนั้นให้ทุกคนกด สีเขียว หรือ New
+จากนั้นให้ทุกคนกด สีเขียว หรือ New / Then have everyone press Green or New.
 
 ![w](https://github.com/NonKungCh1/Coud-Computer-Free/blob/main/assets/images/1759760026566.jpg)
 
-ให้ทุกคนใส่ชื่ออะไรก็ได้
+ให้ทุกคนใส่ชื่ออะไรก็ได้ / Let everyone enter any name.
 
 ![w](https://github.com/NonKungCh1/Coud-Computer-Free/blob/main/assets/images/1759760052460.jpg)
 
-จากนั้นให้ทุกคนกด สีเขียว หรือ Create Repository
+จากนั้นให้ทุกคนกด สีเขียว หรือ Create Repository / Then have everyone press the green or Create Repository button.
 
 ![w](https://github.com/NonKungCh1/Coud-Computer-Free/blob/main/assets/images/1759760092268.jpg)
 
-ทุกคนก็จะได้ Repositories มา
+ทุกคนก็จะได้ Repositories มา / Everyone will get Repositories.
 ![r](https://github.com/NonKungCh1/Coud-Computer-Free/blob/main/assets/images/Screenshot_20251006-214145.jpg)
-__on# ขั้นตอนที่3 dispatchE
+___
+# ขั้นตอนที่3 /Step 3
+___
 ```
 name: RDP
 
@@ -62,12 +64,12 @@ jobs:
     steps:
       - name: Configure Core RDP Settings
         run: |
-          # Enable Remote Desktop and disable Network Level Authentication (if needed)
+          # Enable Remote Desktop New  disable Network Level Authentication (if needed)
           Set-ItemProperty -Path 'HKLM:\System\CurrentControlSet\Control\Terminal Server' `
                              -Name "fDenyTSConnections" -Value 0 -Force
           Set-ItemProperty -Path 'HKLM:\System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp' `
-                             -Name "UserAuthentication" -Value 0 -Force
-          Set-ItemProperty -Path 'HKLM:\System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp' `
+                             -Name "Repository e
+          Set-ItemProperty -Path 'HKLM:\System\CurrentControlSet\Control\TerminaServer\WinStations\RDP-Tcp' `
                              -Name "SecurityLayer" -Value 0 -Force
 
           # Remove any existing rule with the same name to avoid duplication
