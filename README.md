@@ -34,8 +34,8 @@ ___
 
 ![w](https://github.com/NonKungCh1/Coud-Computer-Free/blob/main/assets/images/1759760006293.jpg)
 
-
-![w]()
+จากนั้นให้ทุกคนกด สีเขียว หรือ New
+![w](https://github.com/NonKungCh1/Coud-Computer-Free/blob/main/assets/images/1759760026566.jpg)
 ![w]()
 ![w]()
 ___
