@@ -2,7 +2,7 @@
 ___
 # ขั้นตอนที่1
 
-## --ไทย--
+## ขั้นตอนที่1 / Step 1
 
 คัดลอกลิงค์ด้านล่างนี้ แล้วล้องอินผ่าน Github แล้วเลื่อนลงด้านล่างสุด จะมีคำว่า Skip จากนั้นให้เลื่อนแถบด้านบนหาคำว่า Setting จากนั้นให้เปลี่ยนจากแถบ General มาเป็นแถบ keys จากนั้นให้หาคำว่า Generate auth key แล้วกดเข้าไปจะมีหน้าต่างขึ้นมาให้เรามองด้านล่าง ตะมีปุมสีฟ้าที่ชื่อว่า Generate key อยู่ให้เรากดแบ้วจะมีหน้าต่างให้คัดลอก Keys 
 ___
@@ -21,7 +21,7 @@ Click it, and a new window will pop up allowing you to copy your key.
 https://login.tailscale.com/admin/settings/keys
 ```
 ___
-# ขั้นตอนที่2
+# ขั้นตอนที่2 / Step 2
 หลักจากที่ทุกคนได้ Keys มาแล้วให้กลับมาหน้า github
 ![S](https://raw.githubusercontent.com/NonKungCh1/Coud-Computer-Free/refs/heads/main/assets/images/1759759946352.jpg)
 
@@ -41,16 +41,13 @@ ___
 
 ![w](https://github.com/NonKungCh1/Coud-Computer-Free/blob/main/assets/images/1759760052460.jpg)
 
-จากนั้นให้ทุกคนกด สีเขียว หรือ Create Repositories
+จากนั้นให้ทุกคนกด สีเขียว หรือ Create Repository
 
 ![w](https://github.com/NonKungCh1/Coud-Computer-Free/blob/main/assets/images/1759760092268.jpg)
 
 ทุกคนก็จะได้ Repositories มา
 ![r](https://github.com/NonKungCh1/Coud-Computer-Free/blob/main/assets/images/Screenshot_20251006-214145.jpg)
-___
-# ขั้นตอนที่3
-___
-CODE
+__on# ขั้นตอนที่3 dispatchE
 ```
 name: RDP
 
