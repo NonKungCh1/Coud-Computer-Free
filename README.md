@@ -1,12 +1,12 @@
 # Coud-Computer-Free
 ___
-ขั้นตอนที่1
+# ขั้นตอนที่1
 ___
---ไทย--
+## --ไทย--
 
 คัดลอกลิงค์ด้านล่างนี้ แล้วล้องอินผ่าน Github แล้วเลื่อนลงด้านล่างสุด จะมีคำว่า Skip จากนั้นให้เลื่อนแถบด้านบนหาคำว่า Setting จากนั้นให้เปลี่ยนจากแถบ General มาเป็นแถบ keys จากนั้นให้หาคำว่า Generate auth key แล้วกดเข้าไปจะมีหน้าต่างขึ้นมาให้เรามองด้านล่าง ตะมีปุมสีฟ้าที่ชื่อว่า Generate key อยู่ให้เรากดแบ้วจะมีหน้าต่างให้คัดลอก Keys 
 ___
---English--
+## --English--
 
 Copy the link below and log in with your GitHub account.
 Then scroll down to the bottom and click "Skip".
@@ -21,6 +21,10 @@ ___
 ```
 https://login.tailscale.com/admin/settings/keys
 ```
+___
+# ขั้นตอนที่2
+หลักจากที่ทุกคนได้ Keys มาแล้วให้กลับมาหน้า github
+[]()
 ___
 CODE
 ```
